@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.cpp \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Bits.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Likely.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ScopeGuard.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/UncaughtExceptions.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Align.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Launder.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/SafeAssert.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Defaults.h \
+  /Users/ronengoren/Desktop/wekalb/tasks/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14IntrinsicsAvailability.h
